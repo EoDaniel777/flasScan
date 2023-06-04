@@ -1,4 +1,4 @@
-# flashScan
+# FlashScan
 Simples scan em Python
 Simples scanner de portas usando a biblioteca nmap e subprocess do python.
 
