@@ -5,7 +5,7 @@ import subprocess
 scanner = nmap.PortScanner()
 
 print("Seja Bem vindo ao Flash Sacan")
-print(" ->ⒷⒺⓂ ⓋⒾⒹⓄ ⒶⓄ ⒻⓁⒶⓈⒽ ⓈⒸⒶⓃ<- ")
+print(" -> ⒷⒺⓂ ⓋⒾⓃⒹⓄ ⒶⓄ ⒻⓁⒶⓈⒽ ⓈⒸⒶⓃ <- ")
 
 ip = input("Digite o IP a ser scaneado: ")
 print("o ip digitado foi: ", ip)
